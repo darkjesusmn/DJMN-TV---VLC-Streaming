@@ -42,7 +42,7 @@ The goal is to create a curated English-language TV lineup that feels closer to 
 
 The playlist is designed around categories people actually browse:
 
-- Minnesota local
+- local
 - News
 - Weather
 - Movies
