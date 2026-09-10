@@ -701,54 +701,7 @@ Recommended safety practices:
 - Some legitimate channels may be missed if their metadata is incomplete.
 - Some unwanted channels may slip through if their names do not match the filter rules.
 
----
 
-## Recommended Repository Layout
-
-```text
-DJMN-TV/
-├── DJMN_TV.bat
-├── README.md
-├── LICENSE
-└── screenshots/
-    └── optional-vlc-playlist-view.png
-```
-
-Optional future files:
-
-```text
-docs/
-├── FILTERING.md
-├── CHANGELOG.md
-└── TROUBLESHOOTING.md
-```
-
----
-
-## Suggested GitHub Description
-
-```text
-One-click Windows BAT that turns VLC into a self-updating, English-only curated live TV playlist.
-```
-
----
-
-## Suggested Topics
-
-```text
-vlc
-iptv
-m3u
-windows
-batch
-powershell
-playlist
-live-tv
-fast-channels
-iptv-org
-```
-
----
 
 ## Disclaimer
 
